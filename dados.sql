@@ -27,7 +27,6 @@ mysql> select * from clientes;
 8 rows in set (0,00 sec)
 
 
-
 -- 2. inserindo dados na tabela trabalhadores --
 INSERT INTO trabalhadores(Nome, CPF, Profissão, Endereço,Telefone)values
       ('Ricardo Frohmmer', 72233987392, 'Empresário e Mecânico Chefe', 'Rua Rudolph Frohmmer Lehmann, 79 - Hilflandia', 21999121397),
@@ -197,14 +196,6 @@ mysql> select * from ordemServico;
 4 rows in set (0,00 sec)
 
 
--- linha 3(2, 499.80 + radiador(540.70), água (10), aditivo (30) e teste) --
--- linha 4(2, 200 + ajustes dos freios (incluso nas duas horas de trabalho)  e troca de seu fluido (25*3=75)) --
-
-
-
-
-
-
 INSERT INTO fatura(valor, formaPagto, parcelas)values
                   (399.80, 'débito à vista', 0),
                   (482.60, 'crédito (visa)', 2),
@@ -233,17 +224,11 @@ mysql> show tables;
 | fornecedores ok                               |
 | orcamentos ok                                 |
 | ordemServico ok                               |
-| retiradas_do_estoque_pelas_ordens_de_servicos ? | adain lo sei fazer
+| retiradas_do_estoque_pelas_ordens_de_servicos | 
 | tabelaValoresHora ok                          |
 | trabalhadores  ok                             |
-| valoresServicosPrestados ?                    | ainda não sei fazer
+| valoresServicosPrestados                      | 
 | veiculos   ok                                 |
-| veiculosCliente ?                             | ainda não sei fazer
+| veiculosCliente                               | 
 +-----------------------------------------------+ 
 13 rows in set (0,00 sec)
-
-
-
-
-
-
