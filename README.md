@@ -16,3 +16,14 @@ https://github.com/geosidnei/desafio4-sql-automecanica/blob/main/dados.sql
 E, finalmente, as queries simples que consequi fazer estão em:
 
 https://github.com/geosidnei/desafio4-sql-automecanica/blob/main/Queries%20da%20automec%C3%A2nica%20Deutschwagen%20-%20FrioBurgo%20-%20Frio%20de%20Janeiro.sql.
+
+E é isso:
+---- Mensagem de agradecimento ----
+
+Dei meu máximo dentro das minhas limitações de tempo, equipamento e aprendizado.
+
+Não tenho palavras para agradecer a todos da dio por esta oportunidade de estudo para mudança de carreira que logo vai chegar e em especial à Professora e Mestre Juliana Mascarenhas, pela entrega total neste ótimo curso!
+
+Grande abraço
+
+sidnei lopes ribeiro
