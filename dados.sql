@@ -218,7 +218,7 @@ mysql> show tables;
 | Tables_in_automecanica                        |
 +-----------------------------------------------+
 | clientes ok                                   |
-| equipe - não sei fazer ainda                  |
+| equipe -                                      |
 | estoque ok                                    |
 | fatura  ok                                    |
 | fornecedores ok                               |
