@@ -140,16 +140,6 @@ SELECT idOrcamento, Valor, count(*)
 4 rows in set (0,00 sec)
 
 --------------------------------------------------------------------------------
-
--- mensagem para o desafio 4 ----------------------------------------------------- 
-https://github.com/geosidnei/Desafio4-SQL
-
-Dei meu máximo dentro das minhas limitações de tempo, de aprendizado e de equipamentos.
-
-Não tenho palavras para agradecer a todos da dio por esta oportunidade de estudo para mudança de carreira que logo vai chegar e em especial à Professora e Mestra Juliana Mascarenhas, pela entrega total neste ótimo curso!
-
-Grande abraço
-
-sidnei lopes ribeiro
+Fim / 25 de setembro de 2022.
 
  
